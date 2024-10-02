@@ -1,0 +1,9 @@
+{
+	"name": "de-train",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "90d59572-8a01-434f-859b-acd2b2b454a0",
+		"tenantId": "78e937ae-1c96-4654-9750-f80088fdbfae"
+	}
+}
